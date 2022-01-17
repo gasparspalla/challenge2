@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461812800141",
+    "project_id": "md-bootcamp-2201",
+    "storage_bucket": "md-bootcamp-2201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461812800141:android:167113e34e3ad697b420c4",
+        "android_client_info": {
+          "package_name": "com.munidigital.bc2201.challenge2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461812800141-tbth4f0o8212443qadkqsnjkgqf4tloc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBWh3iA1t3XdqqbOMYvlEfcc9N9u_9PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461812800141-tbth4f0o8212443qadkqsnjkgqf4tloc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

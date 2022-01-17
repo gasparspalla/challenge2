@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Segundo Challenge</string>
+    <string name="message_empty">El mensaje no puede estar vacio</string>
+    <string name="write_your_msg_here">Escribe tu mensaje aqui</string>
+    <string name="no_conversation">Aun no hay una conversacion</string>
+    <string name="user">Usuario</string>
+    <string name="add_user">Ingrese su usuario</string>
+    <string name="passwd">Contraseña</string>
+    <string name="add_passwd">Ingrese su contraseña</string>
+    <string name="login">Login</string>
+
+</resources>
